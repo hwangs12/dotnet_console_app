@@ -1,0 +1,15 @@
+/Users/junhwang/Desktop/Exchange/bin/Debug/net6.0/Exchange
+/Users/junhwang/Desktop/Exchange/bin/Debug/net6.0/Exchange.deps.json
+/Users/junhwang/Desktop/Exchange/bin/Debug/net6.0/Exchange.runtimeconfig.json
+/Users/junhwang/Desktop/Exchange/bin/Debug/net6.0/Exchange.dll
+/Users/junhwang/Desktop/Exchange/bin/Debug/net6.0/Exchange.pdb
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/Exchange.csproj.AssemblyReference.cache
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/Exchange.GeneratedMSBuildEditorConfig.editorconfig
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/Exchange.AssemblyInfoInputs.cache
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/Exchange.AssemblyInfo.cs
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/Exchange.csproj.CoreCompileInputs.cache
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/Exchange.dll
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/refint/Exchange.dll
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/Exchange.pdb
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/Exchange.genruntimeconfig.cache
+/Users/junhwang/Desktop/Exchange/obj/Debug/net6.0/ref/Exchange.dll
