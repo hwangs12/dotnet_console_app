@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Account hello = new Account();
-hello.balance = 15;
-hello.printBalance();
+Account client = new Account(3, 15, "James Colt", "1456 Mayweather Pl");
+client.sendFunds(5);
+client.getSignature();
